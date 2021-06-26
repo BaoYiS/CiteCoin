@@ -1,2 +1,2 @@
-# NFTHerd
-"NFTHerd" is a blockchain game that can give rewards and currency based on current $DAI held in 88mph
+# CiteCoin
+A coin to compensate researchers based on the number of citations on their research.
